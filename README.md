@@ -1,1 +1,1 @@
-# Kickstart-Analysis-to-FInd-Trends
+# An Analysis of Kickstarter Campaigns
