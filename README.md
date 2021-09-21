@@ -24,7 +24,7 @@ The second major analysis presented in this report was the collection and analys
 
 **Conclusions**
 
-Based on the Theater Outcomes Based on Launch Date Pivot Table (above) and Visual Representation (Below), there are a couple of conclusions that can be drawn. ![Theater_Outcomes_vs_Launch](C:\Users\Owner\Documents\Data Analysis Boot Camp\Crowdfunding Analysis\Resources\Theater_Outcomes_vs_Launch.png)
+Based on the Theater Outcomes Based on Launch Date Pivot Table (above) and Visual Representation (Below), there are a couple of conclusions that can be drawn. ![Theater_Outcomes_vs_Launch](https://github.com/labinskin/Kickstart-Analysis-to-Find-Trends/blob/e5f9525bf089a129c80724338c701683b676a517/Resources/Theater_Outcomes_vs_Launch.png)
 
 
 
