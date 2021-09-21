@@ -32,7 +32,7 @@ First, the spring and summer months of April through August are the busiest mont
 
 The second set of conclusions will be drawn from my analysis based on Goal Outcome (see chart below)
 
-![Outcomes_vs_Goals](C:\Users\Owner\Documents\Data Analysis Boot Camp\Crowdfunding Analysis\Resources\Outcomes_vs_Goals.png)
+Resources/Outcomes_vs_Goals.png
 
 Based on the analysis of the chart and graph, there is a clear recommendation for playwrights to be careful about not going over the $4,999 goal threshold. Plays under that threshold were funded approximately a 75% of the time, while plays above the threshold were closer to a 50% chance of being funded successfully. The exception is the $35,000 to $44,999 range. However, when looking at the raw data (see chart above), it is clear that there are only a total of 9 projects here, compared to 720 for $4,999 and under. Simply, the sample size on the higher range is too small to draw a definite conclusion that it will be funded.
 
