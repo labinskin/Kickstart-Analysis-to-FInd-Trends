@@ -1,10 +1,12 @@
 # Kickstarter Analysis
 
+By Nicholas Labinski
+
 ## Overview
 
 **Purpose of the Project**
 
-My friend Louise wants to launch a Kickstarter campaign for a play she wants to put on, *Fever*. *Fever* came close to reaching its fundraising goal in a short amount of time. Now, Louise has contacted me to analyze Kickstarter data that was collected from 2009 to 2017 to determine how different campaigns fared in relation to their launch dates and their fundraising goals. The data set is large, including data on the goal, amount pledged, country, date launched/completed, and number of backers, being among the data most pertinent to this analysis. This data includes information on plays and other theatrical campaigns, as well as campaigns for books, television, and music. Louise would like me to analyze the data so she has a better understanding of the fundamentals that might shape a successful, or unsuccessful, Kickstarter campaign. She believes it is critical to understand when campaigns are launched, the type of campaign, including unique campaigns, and how campaigns for plays, her interest, faired. This analysis is intended to help Louise understand the fundamentals of Kickstarter campaigns, provide insight about launch dates, the campaign goal, and their influence in the success or failure of play campaigns.
+My friend Louise wants to launch a Kickstarter campaign for a play she wants to put on, *Fever*. *Fever* came close to reaching its fundraising goal in a short amount of time. Now, Louise has contacted me to analyze Kickstarter data that was collected from 2009 to 2017 to determine how different campaigns fared in relation to their launch dates and their fundraising goals. The data set is large, including data on the goal of the campaign, the amount pledged, country, date launched/completed, and number of backers, among the data most pertinent to this analysis. This data includes information on plays and other theatrical campaigns, as well as campaigns for books, television, music, and more. Louise would like me to analyze the data so she has a better understanding of the fundamentals that might shape a successful, or unsuccessful, Kickstarter campaign. She believes it is critical to understand when campaigns are launched, the type of campaign, including unique campaigns, and how campaigns for plays, her interest, faired. This analysis is intended to help Louise understand the fundamentals of Kickstarter campaigns, provide insight about launch dates, the campaign goal, and their influence in the success or failure of play campaigns.
 
 
 
